@@ -1,8 +1,3 @@
----
-layout: slate
-title: "Vanimion's website"
-description: "Welcome to my official website. Here you can find my ROBLOX group and my Discord group."
----
 
 <h1> Vanimion Productions</h1>
 <hr>
