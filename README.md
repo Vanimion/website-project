@@ -1,3 +1,6 @@
+<h1> Vanimion Productions</h1>
+<p>Vanimion Productions, sitting at over 100 members and over 15,000 total visits, is a small development project maintained and run by Vanimion.</p>
 
-<img src="https://t1.rbxcdn.com/fe6bd11e32eb7e5ca30b196fab2bbccc" alt="Vanimion Productions">
-<h2 href="https://www.roblox.com/groups/4749990/Vanimion-Productions#!/about"> Vanimion Productions, my ROBLOX development group with over 100 members and over 10,000 visits</h2>
+<h3> Links <h3>
+<a href="https://www.roblox.com/groups/4749990/Vanimion-Productions#!/about"> The ROBLOX group </a>
+<a href="https://discord.com/invite/QCtaF2Y"> The Discord server </a>
